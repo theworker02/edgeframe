@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/edgeframe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Edge HTML/Markdown frame fragments safely for docs pipelines.",
+  "bin": {
+    "edgeframe": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/edgeframe.git"
+  },
+  "homepage": "https://theworker02.github.io/edgeframe/",
+  "keywords": [
+    "edge",
+    "frame",
+    "markup",
+    "cli",
+    "toolkit"
+  ]
+}
